@@ -29,7 +29,7 @@ We created a simulation project titled "My_Farm", where we assumed a paddy field
 
 # 🧪 Benefits of This Approach
 - ✅ Pros:
-  -⚡ Faster Analysis of Farm Progress
+  - ⚡ Faster Analysis of Farm Progress
   - 🚫 No Physical Survey Needed
   - 💰 Lower Cost for Large-Scale Monitoring
   - 📐 Yield Estimation using Mathematical Models
