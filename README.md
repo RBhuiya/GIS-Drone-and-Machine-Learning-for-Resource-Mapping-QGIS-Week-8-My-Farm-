@@ -36,7 +36,7 @@ We created a simulation project titled "My_Farm", where we assumed a paddy field
   - 🌐 Easy Sharing of Geo-tagged Info via KML
 
 # 📁 Download the KML File
-  - 🗾 [My_Farm][You can view and explore our sample farm in Google Earth Pro by downloading the KML file](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-8-My-Farm-/blob/53bfd46b0ed48436f67eb3e7771eb6d57207056d/Main%20(Source%20Data%20File)/My_Farm.kml)
+  - 🗾 [My_Farm](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-8-My-Farm-/blob/53bfd46b0ed48436f67eb3e7771eb6d57207056d/Main%20(Source%20Data%20File)/My_Farm.kml)(_<-You can view and explore our sample farm in Google Earth Pro by downloading the KML file_)
 
 # 🖥️ Screenshot
 -(**My_Farm(2025)**)
